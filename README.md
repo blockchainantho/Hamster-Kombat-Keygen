@@ -18,7 +18,7 @@ The Hamster Kombat Key Generator provides a simple way to obtain promo codes for
 
 **New in this update**:
 
-- Added support for three new games: Chain Cube 2048, My Clone Army, and Train Miner.
+- Added support for three new games: Chain Cube 2048, My Clone Army, Train Miner and Merge Away.
 
 - Improved responsive design.
 
@@ -32,7 +32,7 @@ The Hamster Kombat Key Generator provides a simple way to obtain promo codes for
 
 
 
-- **Four Games Supported**: Riding Extreme 3D, Chain Cube 2048, My Clone Army, and Train Miner.
+- **Five Games Supported**: Riding Extreme 3D, Chain Cube 2048, My Clone Army, and Train Miner.
 
 - **Generate Promo Codes**: Generate up to 5 promo codes at a time.
 
