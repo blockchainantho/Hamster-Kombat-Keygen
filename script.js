@@ -1,4 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
+   const EVENTS_DELAY = 21000;
     const games = {
         1: {
             name: 'Riding Extreme 3D',
